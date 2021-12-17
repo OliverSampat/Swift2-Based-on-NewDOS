@@ -4,3 +4,5 @@ Password is SwiftTechnologiesNewDOS
 if a program crashes the OS or dosent start, this means the application isnt finished and is still in development
  Version 1.2 
  Swift Technologies
+ All 'Copyrights' arnt real and are there for Authenicicty
+ 
